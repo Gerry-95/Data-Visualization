@@ -1,0 +1,9 @@
+#row1 {
+    background-color: green;
+}
+#row2 {
+    background-color: purple;
+}
+#chart_div {
+    min-height: 450px;
+}
